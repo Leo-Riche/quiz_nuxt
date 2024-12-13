@@ -19,4 +19,5 @@ provide('quiz', quiz);
             <Score v-else />
         </div>
     </NuxtLayout>
+    
 </template>

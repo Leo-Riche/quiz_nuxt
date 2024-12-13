@@ -2,34 +2,54 @@
     "title": "Quiz numéro 1 - Références",
     "questions": [
         {
-            "text": "Quel est le record du monde du 100 mètres ?",
+            "text": "Vous attendez l'ouverture de Fitness Park ?",
             "options": [
-                "9.58 secondes",
-                "9.68 secondes",
-                "9.78 secondes",
-                "9.88 secondes"
+                "La mer noir",
+                "Moi je m'appelle Fatih",
+                "Non, moi je suis coach",
+                "Je suis coach"
+            ],
+            "answer": 2
+        },
+        {
+            "text": "Comment vous appelez le bout du pain?",
+            "options": [
+                "Moi je m'appelle Fatih",
+                "Le quignon",
+                "Le trognon",
+                "Le croûton"
             ],
             "answer": 0
         },
         {
-            "text": "Combien de joueurs y a-t-il dans une équipe de football ?",
-            "options": ["9", "10", "11", "12"],
-            "answer": 2
-        },
-        {
-            "text": "Quel pays a remporté la Coupe du Monde de la FIFA 2018 ?",
-            "options": ["Allemagne", "Brésil", "France", "Argentine"],
-            "answer": 2
-        },
-        {
-            "text": "Quel est le sport national du Japon ?",
-            "options": ["Judo", "Sumo", "Karaté", "Baseball"],
+            "text": "Que pensez-vous des violences policières ?",
+            "options": [
+                "Moi je m'appelle Fatih",
+                "Parce que aujourd'hui, les frutis et légumes sont hyper tensés",
+                "Je suis coach",
+                "La mer noir"
+            ],
             "answer": 1
         },
         {
-            "text": "Combien de sets sont nécessaires pour gagner un match de tennis masculin en Grand Chelem ?",
-            "options": ["2", "3", "4", "5"],
-            "answer": 3
+            "text": "Ça veut dire quoi 'gracieux' ?",
+            "options": [
+                "Rends moi mes chips",
+                "Il est tombé",
+                "Un gras qui vient du ciel",
+                "Je suis coach"
+            ],
+            "answer": 2
+        },
+        {
+            "text": "Complète la phrase : 'Oh punaise, Marge est-ce que tu m'as préparé mon ...'",
+            "options": [
+                "donut sucré au sucre",
+                "donut au sucre sucré",
+                "café",
+                "gâteau"
+            ],
+            "answer": 0
         }
     ]
 }
