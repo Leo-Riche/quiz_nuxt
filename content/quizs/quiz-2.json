@@ -1,0 +1,40 @@
+{
+    "title": "Quiz numéro 2 - Mathématiques",
+    "questions": [
+        {
+            "text": "Quelle est la valeur de pi (approximativement) ?",
+            "options": [
+                "3.14",
+                "2.71",
+                "1.62",
+                "1.41"
+            ],
+            "answer": 0
+        },
+        {
+            "text": "Combien font 7 x 8 ?",
+            "options": ["54", "56", "58", "60"],
+            "answer": 1
+        },
+        {
+            "text": "Quelle est la racine carrée de 64 ?",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "answer": 2
+        },
+        {
+            "text": "Combien font 12 + 15 ?",
+            "options": ["25", "26", "27", "28"],
+            "answer": 2
+        },
+        {
+            "text": "Quelle est la valeur de 2^5 ?",
+            "options": ["16", "32", "64", "128"],
+            "answer": 1
+        }
+    ]
+}

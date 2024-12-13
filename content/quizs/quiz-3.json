@@ -1,0 +1,55 @@
+{
+    "title": "Quiz numéro 3 - Géographie",
+    "questions": [
+        {
+            "text": "Quelle est la capitale de la France ?",
+            "options": [
+                "Paris",
+                "Lyon",
+                "Marseille",
+                "Nice"
+            ],
+            "answer": 0
+        },
+        {
+            "text": "Quel est le plus grand pays du monde par superficie ?",
+            "options": [
+                "Canada",
+                "Chine",
+                "États-Unis",
+                "Russie"
+            ],
+            "answer": 3
+        },
+        {
+            "text": "Quel est le plus long fleuve du monde ?",
+            "options": [
+                "Nil",
+                "Amazon",
+                "Yangtsé",
+                "Mississippi"
+            ],
+            "answer": 1
+        },
+        {
+            "text": "Quel est le plus haut sommet du monde ?",
+            "options": [
+                "Mont Everest",
+                "K2",
+                "Kangchenjunga",
+                "Lhotse"
+            ],
+            "answer": 0
+        },
+        {
+            "text": "Quelle est la capitale de l'Australie ?",
+            "options": [
+                "Sydney",
+                "Melbourne",
+                "Canberra",
+                "Brisbane"
+            ],
+            "answer": 2
+        }
+    ]
+}

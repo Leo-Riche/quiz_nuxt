@@ -1,0 +1,35 @@
+{
+    "title": "Quiz numéro 1 - Références",
+    "questions": [
+        {
+            "text": "Quel est le record du monde du 100 mètres ?",
+            "options": [
+                "9.58 secondes",
+                "9.68 secondes",
+                "9.78 secondes",
+                "9.88 secondes"
+            ],
+            "answer": 0
+        },
+        {
+            "text": "Combien de joueurs y a-t-il dans une équipe de football ?",
+            "options": ["9", "10", "11", "12"],
+            "answer": 2
+        },
+        {
+            "text": "Quel pays a remporté la Coupe du Monde de la FIFA 2018 ?",
+            "options": ["Allemagne", "Brésil", "France", "Argentine"],
+            "answer": 2
+        },
+        {
+            "text": "Quel est le sport national du Japon ?",
+            "options": ["Judo", "Sumo", "Karaté", "Baseball"],
+            "answer": 1
+        },
+        {
+            "text": "Combien de sets sont nécessaires pour gagner un match de tennis masculin en Grand Chelem ?",
+            "options": ["2", "3", "4", "5"],
+            "answer": 3
+        }
+    ]
+}

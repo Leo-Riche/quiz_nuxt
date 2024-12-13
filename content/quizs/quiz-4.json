@@ -1,0 +1,40 @@
+{
+    "title": "Quiz numéro 4 - Histoire",
+    "questions": [
+        {
+            "text": "Qui a été le premier président des États-Unis ?",
+            "options": [
+                "George Washington",
+                "Thomas Jefferson",
+                "Abraham Lincoln",
+                "John Adams"
+            ],
+            "answer": 0
+        },
+        {
+            "text": "En quelle année la Révolution française a-t-elle commencé ?",
+            "options": ["1789", "1776", "1804", "1792"],
+            "answer": 0
+        },
+        {
+            "text": "Quel empire a été dirigé par Jules César ?",
+            "options": [
+                "Empire romain",
+                "Empire ottoman",
+                "Empire byzantin",
+                "Empire perse"
+            ],
+            "answer": 0
+        },
+        {
+            "text": "Qui a peint la Joconde ?",
+            "options": ["Léonard de Vinci", "Michel-Ange", "Raphaël", "Donatello"],
+            "answer": 0
+        },
+        {
+            "text": "Quelle guerre a eu lieu entre 1939 et 1945 ?",
+            "options": ["Première Guerre mondiale", "Guerre de Corée", "Seconde Guerre mondiale", "Guerre du Vietnam"],
+            "answer": 2
+        }
+    ]
+}
