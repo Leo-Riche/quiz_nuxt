@@ -1,8 +1,3 @@
-<script setup>
-
-
-</script>
-
 <template>
     <NuxtLayout name="home">
         <Quiz />
